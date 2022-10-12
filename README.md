@@ -22,7 +22,14 @@ First, I will conduct this interview in a quiet place at my apartment. The mater
 ## Link to the UT Survey
 https://forms.gle/vf3JzkuLbeF8L3WS6
 
-## The Video Itself
+## Link to the Video
+https://ucla.zoom.us/rec/share/PeZFAkLSWlLkE_ftXIh37eemgRCRYcfJFfx1lqkpUxIr5pd3GtM-nNyIVqogrfIE.Q1L3wMbRugGwm0Ml?startTime=1665545720000
+Passcode: R66FYb$Y
 
+(Note to Dr. Cho: YouTube is prohibiting upload more than 15 minutes only if you are a verified account.) 
 
 ## Reflection
+
+What I learned during the pilot test, what went well and what did not go well, how I want to improve my usability test in the future. 
+
+I learned that I have to be more asserting during the pilot test. I also had to control myself not to give away the answers to the participant because I was so familiar with the site. I think what went well was the actual tasks, except for the last one. The first two went well because my instructions were clear and concise. The last one was a bit more convoluted. She also gave thorough responses as to why she did the thigns the ways she did on the site. The introduction, the consent, and the closeout went well too. What did not go well was my typos on the form. I thought I worked on it well. In the future, I will definitely triple check the previews, or have someone else check over the survey for any errors. I also want to add more tasks related to attending the college itself such as searching up what programs are available, what does a student need to graduate, and more. One last thing I would do is prepare a different device other than my phone to follow along with the participant. The words were to small to read sometimes so I had to bring up the phone closer to my face. I could also alleviate this issue by increasing the font size on the Google Forms itself. This Usability Test was a very informative experience, and I would love to do it again! 
