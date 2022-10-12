@@ -13,3 +13,8 @@ Items that I would like to test out through my UT for College of the Desert is:
 * Aesthetic and Minimalist Design: trustworthiness and 
 * Lack of Error Prevention: test the search bar if and when the participant decides to do so
 * Recognition Rather than Recall: It forces user to recall locations and remember where information was on the site. 
+
+## Methodology
+Breaking down the conduction of the Usability Test
+
+First, I will conduct this interview in a quiet place at my apartment. The materials used will be my 2014 Macbook Air to record the participant and an iPad for the moderator to follow along with the participant. The participant and the moderater (me) will be sitting across from each other. I will invite them to the recording first and read the script. I will go over the informed consent for the usability test so that the data is valid. The user will be providing feedback as they do the tasks. I will end the recording when the production satisfcation card is completed. (In other words, right before the demographic questions). I will close out the session by thanking my participant for doing the usability testing for me. 
